@@ -13,4 +13,4 @@ The resopitory includes the code to generate the plots shown below and an intera
 
 # Interactiva visualization
 Available at:
-https://htmlpreview.github.io/?https://github.com/ombretta/trends-in-art-history/blob/main/highest_expl_variance/test_pca1_2_interactive.html
+https://htmlpreview.github.io/?https://github.com/ombretta/trends-in-art-history/blob/main/figures/WikiArt_interactive.html
