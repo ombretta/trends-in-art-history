@@ -1,5 +1,5 @@
 # Trends in Art History
-This GitHub repository provides supplementary material accompanying the extended abstract "Art Style Prediction and Temporal Trends001 001 in Art History", submitted at VISART 2024.
+This GitHub repository provides supplementary material accompanying the extended abstract "Art Style Prediction and Temporal Trends in Art History", submitted at VISART 2024.
 
 The resopitory includes the code to generate the plots shown below and an interactive version of the scatter plot.
 
