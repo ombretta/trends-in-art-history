@@ -9,3 +9,8 @@ The resopitory includes the code to generate the plots shown below and an intera
 
 # An overview of the paintings feature representation
 ![test_pca1_2.png](figures%2Ftest_pca1_2.png)
+
+
+# Interactiva visualization
+Available at:
+https://htmlpreview.github.io/?https://github.com/ombretta/trends-in-art-history/blob/main/highest_expl_variance/test_pca1_2_interactive.html
