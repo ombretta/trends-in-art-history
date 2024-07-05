@@ -8,8 +8,7 @@ The resopitory includes the code to generate the plots shown below and an intera
 
 
 # An overview of the paintings feature representation
-![test_pca1_2.png](figures%2Ftest_pca1_2.png)
-
+![test_pca1_2_with_images.png](figures%2Ftest_pca1_2_with_images.png)
 
 # Interactiva visualization
 Available at:
